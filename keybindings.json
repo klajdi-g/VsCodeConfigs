@@ -1,0 +1,26 @@
+[
+{
+  "key": "ctrl+cmd+x",
+ "command": "workbench.view.extensions",
+  "when": "editorTextFocus"
+}
+
+,{
+  "key": "space f",
+  "command": "workbench.action.quickOpen",
+  "name": "Leader + F: Quick Open"
+},
+{
+  "key": "ctrl+n",
+  "command": "workbench.action.toggleSidebarVisibility"
+}
+,{
+  "key": "space h",
+  "command": "workbench.action.terminal.toggleTerminal"
+},
+{
+  "key": "space t",
+  "command": "workbench.action.focusActiveEditorGroup"
+},
+]
+
