@@ -36,5 +36,7 @@ This repository documents my customized Visual Studio Code setup, tailored to br
    - Press `space + t` to return focus to the editor.
    - Press `ctrl + n` to toggle the explorer sidebar.
 ---
+Side Note:
+I recommend disabling the Vim extension or at least the Vim keybindings while typing in the integrated terminal. Otherwise, keys like space might trigger Vim commands instead of being passed to the terminal as normal input.
 
-Gonna be adding more keybinds soon : )
+Gonna be adding more keybinds/configurations soon : )
