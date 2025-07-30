@@ -1,4 +1,3 @@
-
 {
   "workbench.colorTheme": "Aura Dracula Spirit (Soft)",
   "workbench.activityBar.location": "hidden",
@@ -28,18 +27,8 @@
       "y": 16
     }
   },
-  "vim.useSystemClipboard": true,
-"vim.hlsearch": true,
-"vim.incsearch": true,
-"vim.enableSurround": true,
-"vim.useCtrlKeys": true,
-"vim.normalModeKeyBindingsNonRecursive": [
-  {
-    "before": ["space", "f"],
-    "commands": ["workbench.action.quickOpen"]
-  }],
   "custom-ui-style.stylesheet": {
-  ".quick-open-widget": "position: fixed !important; top: 50% !important; left: 50% !important; transform: translate(-50%, -50%) !important; width: 600px !important; max-width: 90vw !important; border-radius: 8px !important; box-shadow: 0 10px 30px rgba(0,0,0,0.5) !important; background-color: #1e1e2f !important; z-index: 9999 !important;",
+    ".quick-open-widget": "position: fixed !important; top: 50% !important; left: 50% !important; transform: translate(-50%, -50%) !important; width: 600px !important; max-width: 90vw !important; border-radius: 8px !important; box-shadow: 0 10px 30px rgba(0,0,0,0.5) !important; background-color: #1e1e2f !important; z-index: 9999 !important;",
     ".notification-toast": "box-shadow: none !important",
     ".quick-input-widget.show-file-icons": "box-shadow: none !important",
     ".quick-input-widget": "top: 25vh !important",
@@ -61,7 +50,7 @@
     ".title .monaco-icon-label.file-icon": "margin: 0 60px",
     ".monaco-editor .cursors-layer .cursor": "background-image: linear-gradient(135deg, #ffaffc 10%, #DA70D6 100%)"
   },
-  "custom-ui-style.font.sansSerif": "Dank Mono",
+  "custom-ui-style.font.sansSerif": "JetBrains Mono",
   "editor.multiCursorModifier": "ctrlCmd",
   "editor.cursorBlinking": "solid",
   "editor.cursorStyle": "line",
@@ -133,4 +122,4 @@
   "files.autoSave": "afterDelay",
   "update.mode": "none",
   "extensions.ignoreRecommendations": true
-}
+}  
