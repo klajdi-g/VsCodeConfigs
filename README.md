@@ -1,6 +1,6 @@
-# My VSCode + Neovim Setup
+# My VSCode Setup
 
-This repository documents my customized Visual Studio Code setup, tailored to bring a Neovim-like experience with enhanced usability and UI tweaks.
+This repository documents my customized Visual Studio Code setup with enhanced usability and UI tweaks.
 
 ---
 
