@@ -1,4 +1,4 @@
-// Place your key bindings in this file to override the defaults
+
 [
  {
   "key": "ctrl+cmd+x",
@@ -6,13 +6,7 @@
   "when": "editorTextFocus"
  },
  {
-  "key": "space f",
-  "command": "workbench.action.quickOpen",
-  "name": "Leader + F: Quick Open",
-  "when": "!editorTextFocus"
- },
- {
   "key": "ctrl+n",
   "command": "workbench.action.toggleSidebarVisibility"
- }
+ },
 ]
