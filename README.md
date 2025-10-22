@@ -6,8 +6,6 @@ This repository documents my customized Visual Studio Code setup with enhanced u
 
 ## Key Features
 
-- Custom **leader key mappings** (`space` as leader) for common commands:
-  - `space + f`: Quick file search in project (centered UI, Must be outside the editor to use this)
 - Minimal, clean UI with:
   - Hidden default status bar except showing current Vim mode at top-right
   - Centered Quick Open palette for file search
